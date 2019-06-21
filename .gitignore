@@ -1,0 +1,9 @@
+data/ignored
+neo4j/data
+neo4j/logs
+neo4j/import
+.cache
+.ipython
+.local
+.config
+code/.ipynb_checkpoints
